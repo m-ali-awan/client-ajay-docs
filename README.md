@@ -1,2 +1,4 @@
-# client-ajay-docs
-Will maintain the project progress, and discussions
+# ToDo:
+
+> 27-01-22:
+  - Have To Try New Clip Models.
