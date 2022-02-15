@@ -9,4 +9,5 @@
   - try out the different approaches in COLAB, using same repo structure, so can be coordinated.
   - Also have ot study different Deployment Approaches, as **AIM IS TO COME UP WITH OPTIMAL SOLUTION.** 
   - Also go through the AutoScaling, Route53, API Gateway integration etc.
+  - Resulting Images should be saved, and best would be if github can be maintained with them.
   - 
