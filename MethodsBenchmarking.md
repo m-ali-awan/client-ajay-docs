@@ -46,3 +46,20 @@
   ```
   
   </details>
+  
+  
+ ## Generations with V-Diffusion:
+ 
+ Note:
+ > **Too much red color is in all generations**
+ 
+ <details>
+ ![image](https://user-images.githubusercontent.com/62832721/158546717-c2362350-4239-401d-b971-16d901c9b412.png)
+ ![image](https://user-images.githubusercontent.com/62832721/158546818-0fb9a2d0-999f-4e9a-b748-f5d23c2b7182.png)
+ ![image](https://user-images.githubusercontent.com/62832721/158546899-18e329fd-8be3-477a-a867-e8ff51df6f8c.png)
+ ![image](https://user-images.githubusercontent.com/62832721/158546995-dee14897-3978-445f-b426-d99c90cb1490.png)
+
+  
+  </details>
+
+ 
