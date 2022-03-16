@@ -15,6 +15,19 @@
   ```
   </details>
 
+### With FF model as Imgnet, but VQModel as Wikiart:
+
+<details>
+  
+  ![image](https://user-images.githubusercontent.com/62832721/158545646-56a9d87c-127c-41bd-af6a-bdb4cb4a605e.png)
+
+  
+  
+  **Rest can be found at this link:**
+  ```
+  https://drive.google.com/drive/folders/1-dYiEBYvv22CrHSehA0VW6D4HdeziuTc?usp=sharing
+  ```
+  </details>
 
 ## Generations with Initialization as random image:
 
