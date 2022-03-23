@@ -11,6 +11,12 @@
   - Also go through the AutoScaling, Route53, API Gateway integration etc.
   - Resulting Images should be saved, and best would be if github can be maintained with them.
   - 
+> 23-03022:
+
+  - Try to make LOCAL mode work in BYOC, as will expedite the process.
+  - Also ASYNC API working, and also CONCURRENT-REQUESTS-PER-INSTANCE working, but not responding to queued invocation..... ***
+  - 
+
 
 
 # AWS Updates:
