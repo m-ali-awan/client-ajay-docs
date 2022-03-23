@@ -16,10 +16,15 @@
 # AWS Updates:
 
 > Finally endpoint deployed using BYOC extending cuda image, as failed with pytorch container. Tried sklearn container, but that cannot be used with cuda.
+> 
 > Till now fould that with g4dn.xlarge we get almost same latency as p3.2xlarge, but cost is relatively very low. With p2.xlarge, latency is almost 3 times more.
+> 
 > With real time endpoint, we have this limitation that max wait time is 60 secs, the process continues in background, but the cell errors out. So we have to use async API.
+> 
 > till now, not able to use "LOCAL" mode with custom container, but try to make it work, as will expedite the process by considerable margin.
+> 
 > **Discuss the no of cores functionality with AJAY, as for now restricte to use 1 core, as otherwise result in time cost. MAybe we can use them to handle concurrent requests.**
+> 
 > Tell AJAY, GCP account approved, so have to try it or not. As MAHYAR, showed they provide more flexibilty over machine settings, i.e no of cores, RAM etc.
 > 
 
