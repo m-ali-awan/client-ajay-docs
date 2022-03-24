@@ -15,3 +15,9 @@
   -
   - tmux atach -t sess_name
  ```
+ 
+ > FasiAPI + Uvicorn is fastest, and better than Flask:
+ 
+  **Asynchonous requests: enables code to run separately from main application**
+  - **async**, handler
+  - **await**, before calling
