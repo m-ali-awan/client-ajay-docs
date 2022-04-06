@@ -1,3 +1,12 @@
+> Important Commands:
+```
+pip3 install  -t /mnt/efs/fs1/ml/lib -r requirements.txt
+
+```
+**This will install the dependencies at the mentioned path, this is helpful especially in Sagemaker, where by default the dependencies are installed, and space run out**
+
+
+
 # ToDo:
 
 > 27-01-22:
