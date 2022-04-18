@@ -19,3 +19,11 @@ https://www.youtube.com/watch?v=cU1nHFQ1Ddk
 
 > Once account is created, it will take a day or two to get it verified. Then once we have added our card, then we need to create our Project.
 > Then we need to add IAM permissions to the Project, as per principal(which is my mail, or anyother user that is added), that permission will be displayed in IAM console. Once it is there, than accordingly we can view our services(say Billing Dashboard etc.)
+
+
+## Benefits of Cloud Run:
+
+Pricing, long request timeouts, no limitations of programming languages, custom containers, multiple concurrent requests. Further dive into this link:
+```
+https://cloud.google.com/blog/topics/developers-practitioners/cloud-run-story-serverless-containers
+```
